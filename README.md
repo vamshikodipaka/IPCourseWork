@@ -1,12 +1,3 @@
-# IPCourseWork
-
-Project: Machine Vision for Bottle and Cap Mechanisms
-
-Labs: Image Histograms, Transformations, Image Filters, Image Compression
-
-Cheers!
-
-
 # Sem3 AIA Complete Course Work: ---
 
 Project: Performace Evaluation of Various Denoising Algorithms: Wavelets, Tikonov's, Wiener algorithms
