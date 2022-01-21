@@ -10,7 +10,7 @@ Presentation: A Mean Shift Clustering Based Segmentation of HR Satellite Imagery
 
 # Sem1 IP Course Work: ---
 
-Project: Visual Inspection of Soft Drink Bottle Plant
+Project: Visual Inspection of Soft Drink Bottle Plant - Machine Vision
 
 Labs: Histograms, Image Transformation, Image Filtering
 
